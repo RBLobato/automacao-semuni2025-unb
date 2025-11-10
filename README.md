@@ -1,11 +1,11 @@
-# Automação da Semana Universitária da UnB 📘
+# Automação da Semana Universitária da UnB 
 
 Projeto desenvolvido para automatizar a **organização e geração de eBook** da Semana Universitária da Universidade de Brasília (UnB).
 
 ##  Objetivo
 Automatizar o processamento de planilhas de eventos e gerar automaticamente um eBook padronizado em PowerPoint (A4), reduzindo o tempo manual e garantindo uniformidade visual e textual.
 
-## ⚙️ Estrutura do projeto
+## Estrutura do projeto
 - **limpador.py** → Limpeza e padronização da planilha:
   - Remoção de duplicatas.
   - Correção de acentuação e formatação (*title case* e *sentence case*).
