@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para automatizar a **organização e geração de eBook** da Semana Universitária da Universidade de Brasília (UnB).
 
-## 🎯 Objetivo
+##  Objetivo
 Automatizar o processamento de planilhas de eventos e gerar automaticamente um eBook padronizado em PowerPoint (A4), reduzindo o tempo manual e garantindo uniformidade visual e textual.
 
 ## ⚙️ Estrutura do projeto
@@ -15,20 +15,20 @@ Automatizar o processamento de planilhas de eventos e gerar automaticamente um e
   - Adaptação dinâmica das caixas de texto.
   - Aplicação da identidade visual da Semana Universitária.
 
-## 🧠 Tecnologias utilizadas
+##  Tecnologias utilizadas
 - Python 3  
 - pandas  
 - python-pptx  
 - re (expressões regulares)  
 - unicodedata  
 
-## 📘 Resultado
+##  Resultado
 Geração de um **EBook completo e padronizado** com os projetos do evento, diretamente a partir da planilha da UnB.
 
-## 📸 Exemplo de resultado
+##  Exemplo de resultado
 ![Exemplo do eBook](<img width="218" height="320" alt="Captura de tela 2025-11-10 153522" src="https://github.com/user-attachments/assets/8fb98f73-9349-4cb3-b3f3-30991fd93204" />)
 
 
-## 🧑‍💻 Autor
+## Autor
 [Rodrigo Lobato] – [LinkedIn](https://www.linkedin.com/in/rblobato/)
 
